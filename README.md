@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @nne-$erine
+# Hi there 👋 I'm @nne-$erine
 ## A Frontend developer student from Norway
 
 
