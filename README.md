@@ -1,15 +1,11 @@
-# Hi there 👋 I'm @nne-$erine
+# Hi there 👋 I'm Anne-$erine
 ## A Frontend developer student from Norway
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying Frondend Development
 - 🌱 I’m currently learning **JavaScript**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about **anything**
 - 📫 How to reach me **anneserinejoha@gmail.com**
-- 😄 Pronouns: **She**
-- ⚡ Fun fact: **I choose to enjoy cheese doodles using a fork.**
 
 
 ### Connect with me:
