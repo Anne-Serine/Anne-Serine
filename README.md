@@ -1,11 +1,23 @@
-# Hi there 👋 I'm Anne-$erine
-## A Frontend developer student from Norway
+# Hi there 👋 
+# I'm Anne-Serine
 
+I'm a Frontend Developer student at Noroff School of Technology and Digital Media.
 
-- 🔭 I’m currently studying Frondend Development
+My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
+
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **anneserinejoha@gmail.com**
+
+Knowledge:
+
+- Design
+- Web and Communications Technology
+- HTML and CSS
+- Project Methodology
+- JavaScript
+- Interaction Design
+- Content Management System
 
 
 ### Connect with me:
