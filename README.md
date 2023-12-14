@@ -3,19 +3,10 @@
 
 🚀 My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
 
-🔗 Links
-
-portfolio
-linkedin
-twitter
-
-Screenshots
-
-App Screenshot
-
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **anneserinejoha@gmail.com**
+
 
 Knowledge:
 
@@ -28,17 +19,17 @@ Knowledge:
 - Content Management System
 
 
-🛠 Skills
+### 🛠 Skills
 Javascript
 HTML
 CSS
 
 
 ### Connect with me:
-https://www.linkedin.com/feed/
+[![linkedin] https://www.linkedin.com/feed/
 
 ### Portfolio:
-https://famous-biscotti-1f0b75.netlify.app/
+[![portfolio] https://famous-biscotti-1f0b75.netlify.app/
 
 ### Languages and Tools:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
