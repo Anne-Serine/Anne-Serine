@@ -1,7 +1,7 @@
 # Hi there 👋 
 # I'm Anne-Serine
 
-I'm a Frontend Developer student at Noroff School of Technology and Digital Media.
+## I'm a Frontend Developer student at Noroff School of Technology and Digital Media.
 
 My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
 
