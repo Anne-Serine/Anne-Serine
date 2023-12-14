@@ -1,7 +1,17 @@
 # Hello there 👋 
 ## I'm Anne-Serine, Frontend Developer student at Noroff School of Technology and Digital Media.
 
-My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
+🚀 My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
+
+🔗 Links
+
+portfolio
+linkedin
+twitter
+
+Screenshots
+
+App Screenshot
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **anything**
@@ -16,6 +26,12 @@ Knowledge:
 - JavaScript
 - Interaction Design
 - Content Management System
+
+
+🛠 Skills
+Javascript
+HTML
+CSS
 
 
 ### Connect with me:
