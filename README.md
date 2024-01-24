@@ -3,7 +3,7 @@
 
 🚀 My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Bootstrap**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **anneserinejoha@gmail.com**
 
@@ -17,6 +17,7 @@
 - JavaScript
 - Interaction Design
 - Content Management System
+- Bootstrap
 
 
 ### 🛠 Skills
