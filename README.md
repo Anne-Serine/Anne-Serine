@@ -3,7 +3,7 @@
 
 🚀 My journey involves not only writing lines of code but also understanding the intricate dance between design aesthetics and user experience.
 
-- 🌱 I’m currently learning **Workflow**
+- 🌱 I’m currently writing a case study about Sanity
 - 💬 Ask me about **anything**
 - 📫 How to reach me **anneserinejoha@gmail.com**
 
