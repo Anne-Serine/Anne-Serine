@@ -16,10 +16,11 @@
 - Frontend development: Vue
 - Static site generator: Nuxt
 
-### Knowledge:
+### 💡 Knowledge
 
 - Design ( Figma )
 - Web and Communications Technology
+- Workflow
 - HTML and CSS
 - Project Methodology
 - JavaScript
@@ -29,17 +30,14 @@
 - Tailwind
 - React
 
-
 ### 🛠 Skills
 - Javascript
 - HTML
 - CSS
 - Tailwind
 - React
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- Design
+- UI / UX
 
 ### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-serine-johannessen-587b4024a/)
